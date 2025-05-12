@@ -1,5 +1,5 @@
 # Social_Media_Friend_Recommendation
- Open the Project in VS Code
+## Open the Project in VS Code
 Make sure the server.js file is inside a folder. Open that folder in VS Code.
 
 2. Install Node.js (if not already installed)
