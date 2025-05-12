@@ -10,6 +10,5 @@ A RESTful API built with Node.js, Express, and CORS that provides user managemen
 - **User Management**: Create and manage users with unique IDs and names.
 - **Friendship Management**: Add and retrieve friends for each user.
 - **Friend Recommendations**: Get friend suggestions based on mutual friends.
-- **Cross-Origin Resource Sharing (CORS)**: Supports cross-origin requests for frontend integration.
-
+- **Cross-Origin Resource Sharing (CORS)**: Supports cross-origin requests for frontend integration
 
